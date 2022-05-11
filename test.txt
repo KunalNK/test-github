@@ -1,1 +1,1 @@
-Hello World from master.
+Continuous deployment is the ultimate example of DevOps automation.
